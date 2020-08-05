@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDA217
+F https://www.digikey.com/product-detail/en/ixys-integrated-circuits-division/FDA217/FDA217-ND/4573270
+$ENDCMP
+#
+$CMP cpc1590
+D Isolated Gate Drive
+F http://www.ixysic.com/home/pdfs.nsf/www/CPC1590.pdf/$file/CPC1590.pdf
+$ENDCMP
+#
+#End Doc Library
