@@ -4,3 +4,6 @@
 [submodule "digikey-kicad-library"]
 	path = digikey-kicad-library
 	url = https://github.com/digikey/digikey-kicad-library
+[submodule "teensy_library"]
+	path = teensy_library
+	url = https://github.com/XenGi/teensy_library.git
