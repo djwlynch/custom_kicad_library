@@ -6,6 +6,10 @@ K dual opamp low-power rail-to-rail
 F https://www.ti.com/lit/ds/symlink/lpv812.pdf
 $ENDCMP
 #
+$CMP MUX508IDR
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmux508
+$ENDCMP
+#
 $CMP OPA2196xDGK
 D Dual, Low-Power, Low Offset Voltage, Rail-to-Rail Operational Amplifier, VSSOP-8
 K dual opamp rtor
